@@ -1,2 +1,3 @@
 # code
-setting coding
+hello gay.
+This is my setting code.
